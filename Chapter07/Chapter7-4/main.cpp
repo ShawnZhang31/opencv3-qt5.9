@@ -80,7 +80,6 @@ int main()
 
     cv::imshow ("image",image);
     cv::imshow ("oneline",oneline);
-
     cv::waitKey (0);
     return 0;
 }
